@@ -69,5 +69,3 @@
 </div>
 
 ![Snake animation](https://github.com/LuigiGF/LuigiGF/blob/output/github-contribution-grid-snake.svg)
-0 comments on commit fc1cc35
-Please sign in to comment.

@@ -3,8 +3,8 @@
 
 
 <div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catalystblack10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalystblack10&layout=compact&langs_count=16&theme=great-gatsby"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 
 ## Codar é um modo de pensar

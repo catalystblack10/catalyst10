@@ -1,37 +1,33 @@
-## Olá Eu Sou Rodrigo Mendes
+## Olá, eu sou Rodrigo Mendes
 
-<div >
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&layout=compact&langs_count=16&theme=dracula"/>
+<div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&layout=compact&langs_count=16&theme=dracula" />
 </div>
 
 ## Codar é um modo de pensar
-<div style="display: flex; justify-content: space-between;"> <br>
-  <img align="left"height="150" alt="coding-time" src="code.gif">
-  <img align="center" height="30" width="40" alt="js-icon"  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg">
+<div style="display: flex; justify-content: space-between;">
+  <br>
+  <img align="left" height="150" alt="coding-time" src="code.gif" />
+  <img align="center" height="30" width="40" alt="js-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" height="30" width="40" alt="react-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" />
+  <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
+  <img align="center" height="30" width="40" alt="nodejs-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />
+  <img align="center" height="30" width="40" alt="cpp-icon" src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" />
 </div>
 
 ## Redes sociais
 <div>
-  <a href = "mailto: rodrigomendescatalyst@gmail.com">
-    <img width="30" src="gmail.svg">
+  <a href="mailto:rodrigomendescatalyst@gmail.com">
+    <img width="30" src="gmail.svg" />
   </a>
-  <a href = "https://www.linkedin.com/in/rodrigo-mendes-de-jesus-dev/">
-    <img width="25" src="linkedin.svg">
+  <a href="https://www.linkedin.com/in/rodrigo-mendes-de-jesus-dev/">
+    <img width="25" src="linkedin.svg" />
   </a>
-  <a href = "https://instagram.com/catalystblack10?igshid=ZDdkNTZiNTM=/">
-    <img width="25" src="instagram.png">
+  <a href="https://instagram.com/catalystblack10?igshid=ZDdkNTZiNTM=/">
+    <img width="25" src="instagram.png" />
   </a>
-
-  <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
-  <img align="right" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&layout=compact&langs_count=16&theme=great-gatsby"/>
-</div>
-<br>
 
 <div  align="center"> 
   <div style="display: inline_block"><br>

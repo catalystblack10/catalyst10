@@ -2,9 +2,12 @@
 
 <div>
 
-<a href="https://github.com/catalystblack10/catalyst10">
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&hide=contribs,prs)/">
-<img src="![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=dracula)/">
+<a href="https://github.com/catalyst10">
+
+<img height="180" src="https://github-readne-stats.vercel.app/api?username=rafaballerini&show_icons-true&theme-dracula&include_all_commits true count private-true"/> <img height="180"
+
+src="https://github-readne-stats.vercel.app/api/top-langs/?username-rafaballerini&layout-compact&langs_count-16&theme-dracula"> 10
+
 
 </div>
 

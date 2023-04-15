@@ -2,7 +2,7 @@
 
 <div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalystblack10anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=radical)
 
 </div>
 

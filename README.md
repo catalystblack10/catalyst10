@@ -16,13 +16,13 @@
 ## Redes sociais
 <div>
   <a href="mailto:rodrigomendescatalyst@gmail.com">
-    <img width="30" src="gmail.svg" />
+    <img width="30" src="https://cdn-icons-png.flaticon.com/512/281/281769.png" />
   </a>
   <a href="https://www.linkedin.com/in/rodrigo-mendes-de-jesus-dev/">
-    <img width="25" src="linkedin.svg" />
+    <img width="25" src="https://cdn-icons-png.flaticon.com/512/174/174857.png" />
   </a>
   <a href="https://instagram.com/catalystblack10?igshid=ZDdkNTZiNTM=/">
-    <img width="25" src="instagram.png" />
+    <img width="25" src="https://i1.wp.com/dolitec.com.br/wp-content/uploads/2017/03/instagram-Logo-PNG-Transparent-Background-download-1.png" />
   </a>
 
 <div  align="center"> 

@@ -4,11 +4,7 @@
 
 <a href="https://github.com/catalystblack10/catalyst10">
 
-<img src="https://github-readne-stats.vercel.app/api?username=catalyst10&show_icons-true&theme-dracula&include_all_commits true count private-true"/> 
-
-<src="https://github-readne-stats.vercel.app/api/top-langs/?username-catalyst10&layout-compact&langs_count-16&theme-dracula">
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=radical)
 </div>
 
 

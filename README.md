@@ -4,7 +4,7 @@
 
 <a href="https://github.com/catalystblack10/catalyst10">
 <![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&hide=contribs,prs)/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=dracula)
+<src"![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=dracula)/">
 
 </div>
 

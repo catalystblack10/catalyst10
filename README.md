@@ -5,10 +5,10 @@
     <a href="https://www.linkedin.com/in/rodrigo-mendes-de-jesus-dev">Rodrigo Mendes</a>
   </h1>
   
-  <p align="center">
+  <h3 align="center">
     Estudante em Desenvolvimento Full stack
     </a>  
-  </p>
+  </h3>
 
 </div>
 

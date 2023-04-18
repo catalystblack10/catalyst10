@@ -27,7 +27,7 @@
 
  ##
  
-<div style="display: inline_block" text-align"center"><br>
+<div style="display: inline_block" h1=text-align"center"><br>
 
 <h1>Linguagens em Aprendizado</h1>  
   

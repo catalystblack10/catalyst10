@@ -27,9 +27,9 @@
 
  ##
  
-<div style="display: inline_block" h1=text-align"center"><br>
+<div style="display: inline_block"><br>
 
-<h1>Linguagens em Aprendizado</h1>  
+<h1 align="center"Linguagens em Aprendizado</h1>  
   
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>

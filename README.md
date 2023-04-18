@@ -25,7 +25,7 @@
   <a href="mailto:rodrigomendescatalyst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- ## <h1 align="center"Linguagens em Aprendizado</h1>  
+ ## Linguagens Em Apredizado 
 
 <div style="display: inline_block"><br>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>

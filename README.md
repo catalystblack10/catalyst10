@@ -25,9 +25,9 @@
   <a href="mailto:rodrigomendescatalyst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
- ## Tecnologias Em Aprendizado 
+ ## <div align="center "Tecnologias Em Aprendizado</div> 
  
-<div style="display: inline_center"><br>
+<div style="display: inline_block"><br>
   
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>

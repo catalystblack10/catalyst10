@@ -25,7 +25,7 @@
   <a href="mailto:rodrigomendescatalyst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
-align"center" ## Tecnologias em aprendizado
+<h1 align="center" ## Tecnologias em aprendizado </h1>
 <div align="center" valign="top"><br>
 <img align="center" alt="python" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>

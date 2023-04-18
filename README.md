@@ -32,7 +32,7 @@
   <img align="center" alt="cata-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-
+![snake gif](https://github.com/catalystblack10/catalyst10/blob/output/github-contribution-grid-snake.svg)
  
 
 

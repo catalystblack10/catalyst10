@@ -25,7 +25,9 @@
   </a>
 </div>
 
- ## Linguagens Em Apredizado 
+ ## 
+   <h1 align="center"> Tecnologias Em Aprendizado</a></h1>
+ 
 <div align="center"><br>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>

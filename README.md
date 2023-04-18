@@ -24,8 +24,8 @@
   <a href="https://www.linkedin.com/in/rodrigo-mendes-de-jesus-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:rodrigomendescatalyst@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-</div align="center"
-## Tecnologias em aprendizado
+</div>
+align"center" ## Tecnologias em aprendizado
 <div align="center" valign="top"><br>
 <img align="center" alt="python" src="https://img.shields.io/badge/Xamarin-3498DB?style=for-the-badge&logo=xamarin&logoColor=white"/>
 <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white/>

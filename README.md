@@ -23,7 +23,7 @@
 <div align="center">
   <a href="https://github.com/catalystblack10">
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=catalyst10&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&hide&show_icons=true&theme=draculahide_border=false&&layout=transparent"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catalyst10&langs_count=16&theme=dracula"/>
   </a>
 </div>
 

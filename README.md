@@ -27,7 +27,6 @@
   </a>
 </div>
 
- ## 
    <h1 align="center"> Tecnologias Em Aprendizado</a></h1>
  
 <div align="center"><br>

@@ -6,7 +6,7 @@
   </h1>
   
   <h3 align="center">
-    Um Aspirante Em Full stack
+    Um Aspirante Em Programação
     </a>  
   </h3>
 
